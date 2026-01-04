@@ -13,7 +13,7 @@ const socialIcons = [
       </svg>
     ),
     label: 'Github',
-    href: 'https://github.com/TenMohm',
+    href: 'https://github.com/Xavier-Cooper',
   },
   {
     icon: (

@@ -49,7 +49,7 @@
       {
         "name": "Issueless",
         "projectUrl": "https://issueless.vercel.app",
-        "repoUrl": "https://github.com/TenMohm/less-issueless-xavier",
+        "repoUrl": "https://github.com/Xavier-Cooper/less-issueless-xavier",
         "imgPath": "projectMedia/issueless.png",
         "imgAlt": "Issueless preview",
         "summary": "JAMStack Issue Tracker project inspired on GitHub issues.",
@@ -70,7 +70,7 @@
       {
         "name": "Easybank",
         "projectUrl": "https://easybank-web.vercel.app/",
-        "repoUrl": "https://github.com/TenMohm/easy-bank",
+        "repoUrl": "https://github.com/Xavier-Cooper/easy-bank",
         "imgPath": "projectMedia/easybank.png",
         "imgAlt": "Easybank website preview",
         "summary": "Fully responsive SAAS product landing page designed with Tailwind CSS.",
@@ -84,7 +84,7 @@
       {
         "name": "BombaiMTY",
         "projectUrl": "https://bombai-mty-menu.vercel.app/",
-        "repoUrl": "https://github.com/TenMohm/food-menu",
+        "repoUrl": "https://github.com/Xavier-Cooper/food-menu",
         "imgPath": "projectMedia/bombai-mty.png",
         "imgAlt": "BombaiMTY website preview",
         "summary": "Fast food sales portal with WhatsApp checkout.",
